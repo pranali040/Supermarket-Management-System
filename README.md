@@ -1,5 +1,6 @@
 # Supermarket-Management-System
 Welcome to the Supermarket Management System! 
+
 This is simple & beginner level Python-based console application allows users to manage supermarket inventory by viewing, adding, purchasing, searching, and editing items.
 
 Features
